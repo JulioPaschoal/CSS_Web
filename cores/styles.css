@@ -1,0 +1,12 @@
+body{
+  background: black;
+}
+li{
+  color: #fff;
+  background: aqua;
+}
+
+#current-color{
+  background: transparent;
+  border: 2px solid currentColor;
+}
